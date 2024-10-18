@@ -1,1 +1,2 @@
-# ComplaintMS-CI
+# phpmyComplaint
+formerly ComplaintMS-CI
